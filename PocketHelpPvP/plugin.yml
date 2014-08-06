@@ -1,0 +1,8 @@
+name: PocketHelpPvP
+main: me.PocketIsland.PocketHelpPvP.PocketHelpPvP
+version: 1.0
+description: >
+             Pocket Help Plugin.
+commands:
+  help:
+    description: Displays helpful information about the server

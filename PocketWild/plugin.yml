@@ -1,0 +1,10 @@
+name: PocketWild
+main: me.PocketIsland.PocketWild.Core
+version: 1.0
+description: >
+             Pocket Wild Plugin.
+commands:
+  wild:
+    description: Teleport to a random location.
+  wilderness:
+    description: Teleport to a random location.

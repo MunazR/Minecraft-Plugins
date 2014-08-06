@@ -1,0 +1,6 @@
+name: PocketBank
+main: me.PocketIsland.PocketBank.Core
+version: 1.0
+description: >
+             Pocket Bank Plugin.
+commands:

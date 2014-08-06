@@ -1,0 +1,22 @@
+# PocketJoin : By Turqmelon : Give a group pocketjoin.<Tag> to give them a join message. #
+
+join:
+  list:
+  - admin
+  - mod
+  - headadmin
+  - owner
+  admin: '&bAdmin %name joined the game!'
+  mod: '&bMod %name joined the game!'
+  headadmin: '&bHead-Admin %name joined the game!'
+  owner: '&bOwner %name joined the game!'
+quit:
+  list:
+  - admin
+  - mod
+  - headadmin
+  - owner
+  admin: '&cAdmin %name quit the game!'
+  mod: '&cMod %name quit the game!'
+  headadmin: '&bHead-Admin %name quit the game!'
+  owner: '&bOwner %name quit the game!'

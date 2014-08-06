@@ -1,0 +1,10 @@
+name: SWPerks
+main: me.PocketIsland.SWPerks.Core
+version: 1.0
+description: >
+             SkyWars Perks Plugin
+commands:
+  buyperk:
+    description: Buy perks using in-game money!
+  bp:
+    description: Buy perks using in-game money!

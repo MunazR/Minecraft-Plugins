@@ -1,0 +1,6 @@
+name: PocketCash
+main: me.PocketIsland.PocketCash.PocketCash
+version: 1.0
+description: >
+             Pocket Cash Plugin.
+commands:

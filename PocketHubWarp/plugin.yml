@@ -1,0 +1,8 @@
+name: PocketHubWarp
+main: me.PocketIsland.PocketHubWarp.PocketHubWarp
+version: 1.0
+description: >
+             Pocket Hub Warp Plugin.
+commands:
+  hub:
+    description: Teleports you back to the hub

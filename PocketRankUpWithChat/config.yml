@@ -1,0 +1,19 @@
+MySQL:
+  port: 3306
+  host: ''
+  user: ''
+  database: ''
+  password: ''
+Blacklist:
+  - fuck
+  - bitch
+  - ass
+  - cunt
+  - dick
+  - nigger
+  - negro
+  - .com
+  - .net
+  - .ca
+Tag:
+ChatTag:

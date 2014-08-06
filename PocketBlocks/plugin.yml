@@ -1,0 +1,5 @@
+name: PocketBlocks
+main: me.PocketIsland.PocketBlocks.Core
+version: 1.0
+description: >
+             Pocket Blocks Plugin.

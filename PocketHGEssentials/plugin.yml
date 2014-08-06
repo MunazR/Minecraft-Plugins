@@ -1,0 +1,8 @@
+name: PocketHGEssentials
+main: me.PocketIsland.Core.Core
+version: 1.0
+description: >
+             Pocket HG Essentials Plugin
+commands:
+  help:
+    description: Provides information to the player

@@ -1,0 +1,8 @@
+name: Pocketfly
+main: me.PocketIsland.pocketfly.Pocketfly
+version: 1.0
+description: >
+             Pocket fly Plugin.
+commands:
+  fly:
+    description: I believe I can fly!

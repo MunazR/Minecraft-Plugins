@@ -1,0 +1,10 @@
+name: PocketStaffChat
+main: me.PocketIsland.PocketStaffChat.Core
+version: 1.0
+description: >
+             PocketStaffChat Plugin
+commands:
+  s:
+    description: Speak in staff chat
+  staff:
+    description: Speak in staff chat

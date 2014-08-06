@@ -1,0 +1,6 @@
+name: PocketKitPvP
+main: me.PocketIsland.PocketKitPvP.Core
+version: 1.0
+description: >
+             Pocket KitPvP Plugin
+commands:

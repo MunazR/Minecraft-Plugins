@@ -1,0 +1,10 @@
+name: Pockethello
+main: me.PocketIsland.pockethello.Pockethello
+version: 1.0
+description: >
+             Pocket Hello Plugin.
+commands:
+  hello:
+    description: Sends a message to the player saying hello!
+  hi:
+    description: Sends a message to the player saying hello!

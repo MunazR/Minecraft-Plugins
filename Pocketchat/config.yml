@@ -1,0 +1,68 @@
+# PocketChat Config : By Turqmelon #
+
+bracket-color:
+  setting: '2'
+  description: 'The color of the bracket the divides the name and the message.'
+
+global-color:
+  setting: '7'
+  description: 'The color of messages sent to global.'
+
+donor-color:
+  setting: 'a'
+  description: 'The color of messages sent to donor.'
+  
+staff-color:
+  setting: '6'
+  description: 'The color of messages sent to staff.'
+
+message-cooldown:
+  setting: 3000
+  description: 'The amount of time in ms that players must wait between messages.'
+  
+badwords:
+  setting:
+    - fuck
+    - shit
+    - cunt
+    - bitch
+    - nigger
+    - ass
+    - asshole
+    - pussy
+    - dick
+    - vagina
+    - penis
+    - faggot
+    - douche
+    - homo
+    - motherfucker
+    - fag
+    - dick
+    - duck
+  description: 'A list of badwords that players will be charged for when said.'
+
+badwords-cost:
+  setting: 100
+  description: 'The amount of $ players will be charged for swearing.'
+
+badwords-filter:
+  setting: true
+  description: 'Filter badword messages to other phrases.'
+
+filter-phrases:
+  setting:
+    - 'I am a pretty flower.'
+    - 'My newest research topic - Green is the new pink!'
+    - 'I love PocketIsland so much.'
+    - 'I should really learn to not use bad language.'
+    - 'I love playing with my sister''s dolls.'
+    - 'I borrowed my sister's makeup today. x)'
+    - 'Woo woo! I'm a choo choo train!'
+    - 'My parents think I'm cute!'
+    - 'Mine is 1.5 cm'
+    - 'Is it hot in here or is that just you?'
+    - 'Are you from China cause I'm china get your number.'
+    - 'PocketIsland is hot as hell!'
+    - 'I eat glue'
+  description: 'If the filter is on, when a message is found to contain swearing, the sentence will be replaced with one of these.'

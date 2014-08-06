@@ -1,0 +1,6 @@
+name: DisguisePvP
+main: me.PocketIsland.DisguisePvP.Core
+version: 1.0
+depend: [DisguiseCraft]
+description: >
+             Undisguises players in PvP

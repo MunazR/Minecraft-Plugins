@@ -1,0 +1,39 @@
+Arena-Count: 1
+Minimum-Players-To-Start: 4
+Win-Reward: 100
+MySQL:
+  port: 3306
+  host: 
+  user: 
+  database: 
+  password: 
+Lobby: 
+Arenas:
+  '0':
+    Spawns:
+      '1': 
+      '2': 
+      '3': 
+      '4': 
+      '5':
+      '6': 
+      '7': 
+      '8': 
+    Radius: 
+    World: 
+    Center: 
+ChestLoot:
+  'T1':
+  - 17>4
+  - 1>32
+  - 346>1
+  - 30>5
+  - 273>1
+  - 274>1
+  - 364>4
+  - 268>1
+  'T2':
+  - 267>1
+  - 261>1
+  - 262>8
+  - 264>1

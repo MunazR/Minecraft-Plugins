@@ -1,0 +1,6 @@
+name: PocketEgg
+main: me.PocketIsland.PocketEgg.PocketEgg
+version: 1.0
+description: >
+             PocketEgg Plugin.
+commands:

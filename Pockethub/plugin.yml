@@ -1,0 +1,10 @@
+name: Pockethub
+main: me.PocketIsland.pockethub.Pockethub
+version: 1.0
+description: >
+             Pocket hub Plugin.
+commands:
+  help:
+    description: Provides information to the player
+  list:
+    description: Lists all online servers and their player count

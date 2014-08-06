@@ -1,0 +1,6 @@
+name: Pocketbedrock
+main: me.PocketIsland.pocketbedrock.Pocketbedrock
+version: 1.0
+description: >
+             Pocket bedrock Plugin.
+commands:

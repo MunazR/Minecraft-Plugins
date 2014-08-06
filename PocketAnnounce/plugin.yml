@@ -1,0 +1,8 @@
+name: PocketAnnounce
+main: me.PocketIsland.PocketAnnounce.Core
+version: 1.0
+description: >
+             Pocket Announce Plugin.
+commands:
+  announce:
+    description: Create an announcement

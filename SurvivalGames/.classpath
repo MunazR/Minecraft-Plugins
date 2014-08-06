@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="F:/Munaz/Downloads/Minecraft Plugins/MessageBarAPI.jar"/>
+	<classpathentry kind="lib" path="F:/Munaz/Downloads/Minecraft Plugins/bukkit-1.7.9-R0.1-20140418.155157-4.jar"/>
+	<classpathentry kind="lib" path="F:/Munaz/Downloads/Minecraft Plugins/craftbukkit-1.7.9-R0.1-20140418.182938-15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

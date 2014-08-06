@@ -1,0 +1,10 @@
+name: PocketPerks
+main: me.PocketIsland.PocketPerks.Core
+version: 1.0
+description: >
+             PocketPerks Plugin
+commands:
+  buyperk:
+    description: Buy perks using in-game money!
+  bp:
+    description: Buy perks using in-game money!

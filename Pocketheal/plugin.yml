@@ -1,0 +1,6 @@
+name: Pocketheal
+main: me.PocketIsland.pocketheal.Pocketheal
+version: 1.0
+description: >
+             Pocket Heal Plugin.
+commands:

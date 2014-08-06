@@ -1,0 +1,8 @@
+name: Pocketpeaceful
+main: me.PocketIsland.pocketpeaceful.Pocketpeaceful
+version: 1.0
+description: >
+             Pocket Peaceful Plugin.
+commands:
+  peacefulme:
+    description: Makes your faction peaceful
