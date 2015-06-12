@@ -1,6 +1,0 @@
-MySQL:
-  port: 3306
-  host: ''
-  user: ''
-  database: ''
-  password: ''
