@@ -8,14 +8,14 @@ These plugins were originally created for use on ipocketisland.com, now known as
 <h2>PocketBank</h2>
 <p>
 Displays player account balance on signs labeled "[Bank]" on the first line. Each player will view the sign differently
-<br/>
+<br/><br/>
 Requires Vault, Economy and IndividualSigns
 </p>
 
 <h2>PocketCash</h2>
 <p>
 Awards players with money when they get a kill
-<br/>
+<br/><br/>
 Requries Vault and an Economy plugin
 </p>
 
@@ -46,15 +46,24 @@ Perks include
 </ul>
 <p>
 Player data is stored in an SQL database. A configuration file will be generated on the first run. Please fill in the fields with the credentials and server information for your SQL database.
-<br/>
+<br/><br/>
+Requires JDBC and Vault with an Economy plugin.
+</p>
+
+<h2>PocketRankUp</h2>
+<p>
+Tracks player statistics including kills, deaths, kill death ratio, killstreak, level and balance and displays it on the player's scoreboard.
+<br/><br/>
+All data is stored in an SQL database. Run the plugin at least once and fill in the SQL credentials and information in the configuration file. Uses a leveling algorithm to allow players to level up by getting kills with increasing difficulty as players level up. Features global messages to announce level ups. 
+<br/><br/>
 Requires JDBC and Vault with an Economy plugin.
 </p>
 <h2>PocketFly</h2>
 <p>
 Gives donors the ability to fly.
-<br/>
+<br/><br/>
 Flying is disabled when the player enters combat and can not be enabled while in combat
-<br/>
+<br/><br/>
 Requires CombatTag and CombatTagAPI
 </p>
 <h2>PocketWild</h2>
